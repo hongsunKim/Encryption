@@ -1,5 +1,5 @@
 # Encryption
 
-1.hi
-1.hello
-1.bye
+1.RSA
+1.Eliptic Curve
+1.Elgamal
